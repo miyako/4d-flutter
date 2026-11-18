@@ -1,0 +1,5 @@
+{
+  "$comment": "Disposable 4D REST/ORDA reference server for four_d contract tests.",
+  "compatibilityVersion": 2102,
+  "tokenizedText": false
+}

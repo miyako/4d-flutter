@@ -1,0 +1,10 @@
+name: four_d
+description: A native Dart client SDK foundation for the 4D REST and ORDA APIs.
+version: 0.1.0-dev
+repository: https://github.com/miyako/4d-flutter
+resolution: workspace
+environment:
+  sdk: ^3.4.0
+
+dev_dependencies:
+  test: ^1.25.0

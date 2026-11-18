@@ -1,0 +1,7 @@
+name: four_d_workspace
+publish_to: none
+environment:
+  sdk: ^3.4.0
+
+workspace:
+  - packages/four_d
